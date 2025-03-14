@@ -12,6 +12,7 @@
 ![сборка в компас-3D](https://github.com/DIY-Elecron1cs/SoundAmplifier/blob/main/images/build-kompas3.png?raw=true)
 
 Отрендеренное фото (в SOLIDWORKS Visualize 2023):
+
 ![рендер (из SOLIDWORKS)](https://github.com/DIY-Elecron1cs/SoundAmplifier/blob/main/images/PhotoRender.png?raw=true)
 
 По вопросам писать в [чат DIY electronics](https://t.me/diy_electronics_chat).
